@@ -23,4 +23,3 @@ fortaleza. Como sueles decir mi frase favorita de un libro:
 *"El principio está ahí. El principio de los días más felices y de los días más abrumadores.*
 *El principio de la crueldad y de la entrega, de todo lo que sucede una sola vez."*
  – Rodrigo Hasbún,**Los días más felices**
-![El septimo aniversario de mi operación del cancer!](C:\Users\MARY\Downloads\Imagen de WhatsApp 2025-03-09 a las 17.13.44_d130f3ea.jpg "Esta soy yo")
