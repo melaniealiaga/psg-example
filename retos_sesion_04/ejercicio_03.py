@@ -1,4 +1,4 @@
-# Ejercicio 02
+# Ejercicio 03
 print ("Mi juego favorito se llama La Feria de las Pulgas de Titirilquen – 31 Minutos")
 # Este es un juego de cartas donde se tiene como objetivo juntar todas las cartas de un tipo antes que los demás jugadores.
 # El juego incluye 90 cartas de chucherías (9 de cada tipo), 1 Campana y un reglamento.
